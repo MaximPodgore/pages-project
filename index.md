@@ -1,5 +1,5 @@
 # Hi, I'm Maxim and welcome to my page  
-[Skip](herearesomeofmyhobbies) and go to tasks
+[Skip](#here-are-some-of-my-hobbies) and go to tasks
 ![Profile Picture](profile.jpg)  
 _Having some milk with my suitemate_   
 
