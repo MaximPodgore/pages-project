@@ -17,13 +17,13 @@ _Having some milk with my suitemate_
 - Volleyball
 - Gaming 🤓
 
-  In terms of things on my plate it's currently:
-  1. Work
-  2. School
-  3. Extracurricullars
+In terms of things on my plate it's currently:
+1. Work
+2. School
+3. Extracurricullars
  
-  Things I have to do this week:
+Things I have to do this week:
 
-  - [ ] Rewrite the cards provider file for the UCSD mobile app
-  - [ ] Finish Phil 181 Readings
-  - [ ] Relax
+- [ ] Rewrite the cards provider file for the UCSD mobile app
+- [ ] Finish Phil 181 Readings
+- [ ] Relax
