@@ -12,3 +12,18 @@ _Having some milk with my suitemate_
 [Here's my README](./README.md)
 
 ## Here are some of my hobbies
+
+- Surfing
+- Volleyball
+- Gaming 🤓
+
+  In terms of things on my plate it's currently:
+  1. Work
+  2. School
+  3. Extracurricullars
+ 
+  Things I have to do this week:
+
+  - [ ] Rewrite the cards provider file for the UCSD mobile app
+  - [ ] Finish Phil 181 Readings
+  - [ ] Relax
