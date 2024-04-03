@@ -11,6 +11,8 @@ _Having some milk with my suitemate_
 
 [Here's my README](./README.md)
 
+[Here's my actual Github page/profile](https://github.com/MaximPodgore)
+
 ## Here are some of my hobbies
 
 - Surfing
