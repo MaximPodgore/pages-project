@@ -1,7 +1,7 @@
 # Hi, I'm Maxim and welcome to my page  
 [Skip](#here-are-some-of-my-hobbies) and go to tasks
 ![Profile Picture](profile.jpg)  
-_Having some milk with my suitemate_   
+_Having some milk with my suitemate. I'm on the right in the super mario shirt_   
 
 >It's a perfect time for a pint of milk  
 
